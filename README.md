@@ -1,5 +1,4 @@
 # codeveda-internship-tasks
-# Data Science Projects Repository
 
 This repository contains a collection of beginner-to-intermediate level data science projects. Each project demonstrates different aspects of the data science workflow, including data exploration, preprocessing, machine learning, and evaluation.
 
